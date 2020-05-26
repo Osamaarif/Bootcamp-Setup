@@ -3,6 +3,7 @@
 I took the following steps, all bootcampers should also do this on there own repos
 
 1. Signup on GitHub.com and Install GitHub Desktop on your computer
+
 https://desktop.github.com/
 
 2. Using Github Desktop create new public repo and publish it on GitHub.com
@@ -18,9 +19,11 @@ https://code.visualstudio.com/download
 https://nodejs.org/en/download/
 
 6. Install Surge
+
 npm install --global surge
 
 7. Generate Surge token by the following command
+
 surge token
 
 8. Save the surge token in the repo's GitHubs secrets
@@ -30,9 +33,11 @@ surge token
 https://www.youtube.com/watch?v=eB0nUzAI7M8
 
 10. Learn YAML
+
 https://rollout.io/blog/yaml-tutorial-everything-you-need-get-started/
 
 11. Configuring a Github Actions Workflow
+
 https://help.github.com/en/actions/reference/workflow-syntax-for-github-actions
 
 https://help.github.com/en/actions/configuring-and-managing-workflows/configuring-a-workflow
@@ -48,6 +53,7 @@ https://help.github.com/en/actions/configuring-and-managing-workflows/configurin
 http://bootcamp_setup_ziakhan.surge.sh/
 
 16. Submit your github repo URL here in the issues of the assignment repo, like I have done here:
+
 https://github.com/panacloud/Bootcamp-Setup/issues/1
 
 NOTE: Assumption is that you know HTML, CSS, and JavaScript
