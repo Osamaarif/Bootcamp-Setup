@@ -50,7 +50,7 @@ https://help.github.com/en/actions/configuring-and-managing-workflows/configurin
 
 15. open website in browser
 
-http://bootcamp_setup_ziakhan.surge.sh/
+http://bootcamp_setup_osamaarif.surge.sh/
 
 16. Submit your github repo URL here in the issues of the assignment repo, like I have done here:
 
